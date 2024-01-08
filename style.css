@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50;
+    height: 100vh;
+    background-color: #0F99;
+}
+
+.container {
+    text-align: center;
+}
+.btn {
+    cursor: pointer;
+    padding: 10px, 20px;
+    font-size: 17px;
+    border-radius: 2rem;
+    height: 10vh;
+    width: 20vh;
+}
+.btn:hover {
+    background: rgb(85,85,85);
+}
